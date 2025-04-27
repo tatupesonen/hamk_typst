@@ -1,0 +1,17 @@
+[package]
+name = "hamk"
+version = "0.1.0"
+entrypoint = "template.typ"
+authors = ["Tatu Pesonen"]
+license = "MIT"
+description = "Template for HAMK University of Applied Sciences Thesis"
+repository = "https://github.com/tatupesonen/hamk_typst"
+keywords = []
+categories = ["thesis"]
+disciplines = []
+exclude = []
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "example.png"
