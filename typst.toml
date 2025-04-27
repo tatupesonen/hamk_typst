@@ -2,11 +2,11 @@
 name = "hamk"
 version = "0.1.0"
 entrypoint = "template.typ"
-authors = ["Tatu Pesonen"]
+authors = ["Tatu Pesonen <tatu@narigon.dev>"]
 license = "MIT"
 description = "Thesis template for HAMK University of Applied Sciences"
 repository = "https://github.com/tatupesonen/hamk_typst"
-keywords = ["hamk", "häme", "university"]
+keywords = ["hamk", "häme", "university", "thesis"]
 categories = ["thesis"]
 disciplines = []
 exclude = []
@@ -14,4 +14,4 @@ exclude = []
 [template]
 path = "template"
 entrypoint = "main.typ"
-thumbnail = "example.png"
+thumbnail = "HAMK_Logo_text_large_FIN-400x152.png"
